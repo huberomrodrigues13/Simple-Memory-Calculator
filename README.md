@@ -1,5 +1,5 @@
 # Simple-Memory-Calculator
-A CLI  built simple calculator that saves previously inputted responses and answers! 
+A CLI-built simple calculator that saves previously inputted responses and answers! 
 
 ## About
 It checks for incorrect responses and takes in simple operations lik +, -, / and *.
